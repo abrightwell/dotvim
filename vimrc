@@ -1,5 +1,7 @@
 execute pathogen#infect()
 
+set number
+
 syntax enable
 set background=dark
 set t_Co=16
