@@ -1,0 +1,9 @@
+[submodule "bundle/vagrant-vim"]
+	path = bundle/vagrant-vim
+	url = https://github.com/smerrill/vagrant-vim.git
+[submodule "bundle/puppet-syntax-vim"]
+	path = bundle/puppet-syntax-vim
+	url = https://github.com/puppetlabs/puppet-syntax-vim.git
+[submodule "bundle/solarized"]
+	path = bundle/solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
